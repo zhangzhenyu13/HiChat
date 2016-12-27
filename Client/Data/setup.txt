@@ -1,0 +1,14 @@
+HOST_SERVICE=127.0.0.1
+PORT_CONNECT=1029
+PORT_SEARCH=2000
+USRLOGIN@
+SYSLOGIN@
+USRLOGOUT@
+SYSLOGOUT@
+USRregister->REG@
+SYSregister->REG@
+badPort=400
+badRequest=DENY
+goodRequest=OK
+SearchFriends@
+AddFriends@

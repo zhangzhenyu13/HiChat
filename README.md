@@ -1,4 +1,4 @@
-# HisChat
+# HiChat
 #ServerPart and Client
 #Using JAVA SOCKET
 #Using mysql
